@@ -1,4 +1,3 @@
-# Hi, I'm Gervy Silvano Masbate
 ### Aspiring Software Engineer | AI-Driven Developer
 
 I am a highly autonomous developer who thrives in building end-to-end solutions. I specialize in bridging the gap between robust backend logic and modern, responsive frontends. My development philosophy centers on **efficiency and continuous evolution** — I actively integrate AI tools into my workflow to accelerate delivery and maintain high code quality.
