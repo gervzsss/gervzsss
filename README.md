@@ -4,7 +4,7 @@ I am a highly autonomous developer who thrives in building end-to-end solutions.
 
 ---
 
-### Profile at a Glance
+### Behind the Code
 - **The AI Edge:** I leverage AI to optimize my coding workflow, from rapid prototyping to debugging and refactoring.
 - **Autonomous & Collaborative:** While I excel at owning projects from scratch as a solo developer, I am always eager to contribute to and learn from high-performing teams.
 - **Current Focus:** Building scalable web applications and staying ahead of industry trends.
