@@ -11,7 +11,7 @@ I am a highly autonomous developer who thrives in building end-to-end solutions.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -22,7 +22,7 @@ I am a highly autonomous developer who thrives in building end-to-end solutions.
 
 ---
 
-### 📚 Libraries & Ecosystem
+### Libraries & Ecosystem
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
@@ -36,7 +36,7 @@ I am a highly autonomous developer who thrives in building end-to-end solutions.
 
 ---
 
-### 📈 Up-skilling: Currently Learning
+### Strateggic Roadmap
 <p align="middle">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -50,7 +50,7 @@ I am a highly autonomous developer who thrives in building end-to-end solutions.
 
 ---
 
-### 📈 GitHub Activity
+### GitHub Activity
 <p align="middle">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gervzsss&theme=dark" />
 </p>
