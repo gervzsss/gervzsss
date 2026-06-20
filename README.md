@@ -49,5 +49,5 @@ I am a highly autonomous developer who thrives in building end-to-end solutions.
 
 ### GitHub Activity
 <p align="middle">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gervzsss&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggervzsss&theme=dark" />
 </p>
